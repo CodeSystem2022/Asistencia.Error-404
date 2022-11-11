@@ -20,7 +20,7 @@ Error-404 somos:
 
 - [Berrini, Alejandro](https://github.com/AlejandroEB89) - [Ejercicio: **Clase Rectangulo**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/EjecricioClaseRectangulo.py)                     
 
-- [Calle, Sonia](https://github.com/SoCalle) - [Mi ejercicio **Cubo.py**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/Cubo.py)  
+- [Calle, Sonia](https://github.com/SoCalle) - [Acá pueden ver mi ejercicio **Cubo.py**](https://github.com/CodeSystem2022/Asistencia.Error-404/blob/main/Leccion6%20%20Cubo.py)  
 
 - [Chavez, Rodrig](https://github.com/RodrigoChavez1986)o                      
 
